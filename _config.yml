@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "randy's Purchase List"
+title: "SimonDaKhan's Purchase List"
 favicon: assets/img/favicon.png
 description: >-
   An expanded item list for TwitchToolkit that supports ToolkitUtils' shop.
