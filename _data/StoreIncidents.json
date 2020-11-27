@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 3657,
 		"karmatype": "Neutral"
 	},
 	{
@@ -68,11 +68,6 @@
 	{
 		"abr": "coldsnap",
 		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "solarflare",
-		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -137,8 +132,8 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
+		"price": 5000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
@@ -231,11 +226,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "sapperraid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -247,11 +237,6 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -302,7 +287,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 100000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -396,5 +381,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 76
 }

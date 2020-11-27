@@ -6,58 +6,38 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Vanilla Bionics Expansion"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons"
-  },
-  {
-    "author": "Zylle",
-    "name": "Extra Alerts",
-    "steamId": "1926923167",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight"
   },
   {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles"
+    "author": "Orion",
+    "name": "Xeva's Rimhair"
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "MinifyEverything",
-    "steamId": "872762753",
-    "version": "1.0.7393.34550"
+    "author": "Helixien, Taranchuk",
+    "name": "[HLX] ReGrowth - Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Sandy",
-    "name": "RPG Style Inventory",
-    "steamId": "1561221991",
-    "version": "1.0.0"
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD"
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
   },
   {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully"
+    "author": "AUTOMATIC",
+    "name": "Bionic icons"
   },
   {
     "author": "UnlimitedHugs",
@@ -66,32 +46,66 @@
     "version": "8.0.1"
   },
   {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.1.23"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Cats and Dogs"
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize"
+  },
+  {
+    "author": "民火",
+    "name": "Statue of Colonist",
+    "steamId": "1539031321",
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Desert"
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem"
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women "
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Australia"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Ice Sheet"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tundra"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Boreal Forest"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Rainforest"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy"
+  },
+  {
     "author": "Fluffy",
-    "name": "Pharmacist",
-    "steamId": "1365242717",
-    "version": "2.9.140"
-  },
-  {
-    "author": "VouLT",
-    "name": "Better Pawn Control",
-    "steamId": "1541460369",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": "725219116",
-    "version": "3.21.303"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool"
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.71"
   },
   {
     "author": "Hatti",
@@ -100,38 +114,354 @@
     "version": "1.0.14"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
+    "author": "Haplo",
+    "name": "Misc. Training"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles"
+  },
+  {
+    "author": "(see description)",
+    "name": "Extended Storage",
+    "steamId": "",
+    "version": "3.5.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": "1253251478",
     "version": "1.0.0.0"
   },
   {
-    "author": "DoctorVanGogh, Killface, meonester",
-    "name": "Rimworld Search Agency",
-    "steamId": "726479594",
-    "version": "0.1.1.0"
+    "author": "Falconne",
+    "name": "Heat Map"
+  },
+  {
+    "author": "Acruid",
+    "name": "Repair Workbench",
+    "steamId": "733997423",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully"
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul"
+  },
+  {
+    "author": "Revolus",
+    "name": "Textile Stats",
+    "steamId": "2045777828",
+    "version": "2020.4.17"
+  },
+  {
+    "author": "NoImageAvailable",
+    "name": "Mass Graves",
+    "steamId": "1542386771",
+    "version": "1.0.0.0"
   },
   {
     "author": "PeteTimesSix",
     "name": "Simple sidearms"
   },
   {
+    "author": "MRGames",
+    "name": "Removes Tainted Clothes"
+  },
+  {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Map Reroll"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Extreme Desert"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.4.01"
+  },
+  {
     "author": "Fluffy",
-    "name": "Research Tree",
-    "steamId": "1266570759",
-    "version": "3.17.533"
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Arid Shrubland",
+    "steamId": "1836900626",
+    "version": "1.1.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Autocleaner",
-    "steamId": "2051042827",
-    "version": "1.0.379.0018"
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Furniture Expanded - Production"
+  },
+  {
+    "author": "Hanabishi",
+    "name": "In-wall coolers and vents"
+  },
+  {
+    "author": "Oskar Potocki, Alestria",
+    "name": "Vanilla Plants Expanded - Succulents"
+  },
+  {
+    "author": "MarvinKosh",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.7603.566"
+  },
+  {
+    "author": "SheiFoxy",
+    "name": "SF Grim Reality"
+  },
+  {
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
+  },
+  {
+    "author": "Sihv",
+    "name": "Rim of Madness - Bones",
+    "steamId": "1180573408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory",
+    "steamId": "1561221991",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Fuglypump and Neceros",
+    "name": "Bulk Stonecutting"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Tropical Swamp"
+  },
+  {
+    "author": "Oskar Potocki, Trunken, XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, dninemfive, Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Keep Bed Ownership"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.0.19.0"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.7529.23144"
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oh God Spiders No",
+    "name": "Animal Armor: Vanilla"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.0.0-beta"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Coastlines",
+    "steamId": "1906469966",
+    "version": "1.3.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Crlsniper",
+    "name": "Realistic Rooms"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualitySurgeon"
+  },
+  {
+    "author": "Neceros",
+    "name": "Metal Don't Burn"
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Trait Rarity Colors",
+    "steamId": "1751884355",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "gguake",
+    "name": "Simple Search Bar"
+  },
+  {
+    "author": "Avius",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "0.10.7520.584"
+  },
+  {
+    "author": "erdelf",
+    "name": "PrisonerRansom",
+    "steamId": "794038005",
+    "version": "1.0.7453.18191"
+  },
+  {
+    "author": "Falconne",
+    "name": "Room Sense",
+    "steamId": "1355637255",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Doormats",
+    "steamId": "1508778962",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Crusader",
+    "name": "Clothes To Cloths"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "Timelapse 2000",
+    "steamId": "1930819411",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zzz",
+    "name": "Wall Vitals Monitor"
+  },
+  {
+    "author": "TheBird956",
+    "name": "Double Population"
+  },
+  {
+    "author": "Andross",
+    "name": "Royal Thrumbos"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "More Sculpture"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts"
+  },
+  {
+    "author": "民火",
+    "name": "RaiderInfo",
+    "steamId": "1537869190",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "CrunchyDuck, Oken",
+    "name": "Beautiful Water"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "finally",
+    "name": "Twitch Stories",
+    "steamId": "1575408914",
+    "version": "0.1.6958.20543"
+  },
+  {
+    "author": "OskarPotocki, Atlas, Kikohi",
+    "name": "Vanilla Furniture Expanded"
   },
   {
     "author": "hodlhodl",
@@ -144,6 +474,136 @@
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "Heremeus",
+    "name": "TwitchToolkit - More !mypawn Commands"
+  },
+  {
+    "author": "AtrociousCollector",
+    "name": "Melee Weapons: Speed and Damage",
+    "steamId": "2031929206",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "Halloween Special Edition"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Boreal Forest Expansion"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Tundra Expansion"
+  },
+  {
+    "author": "hana_asagi",
+    "name": "HalloweenParade(continued)"
+  },
+  {
+    "author": "Cabbage",
+    "name": "RimCities - Citadel Update",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Vanilla Expanded team",
+    "name": "Vanilla Factions Expanded - Vikings"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Zhthy'hl"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Daemonettes"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Gor"
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Skaven"
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Jewelry",
+    "steamId": "2020964421",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.4.1"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults",
+    "steamId": "815039373",
+    "version": "1.21.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "RimQuest",
+    "steamId": "1354114366",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Bonehead14",
+    "name": "Rimworld: Medieval Edition"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf and Jecrell",
+    "name": "Lord of the Rims - The Third Age"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors",
+    "steamId": "765890823",
+    "version": "1.21.0.0"
+  },
+  {
+    "author": "Vindar",
+    "name": "Medieval Times"
+  },
+  {
+    "author": "Sihv",
+    "name": "Medieval Bones"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7546.40571"
   },
   {
     "author": "SirRandoo",
